@@ -21,7 +21,7 @@ The input in “CaseStudySystems_java_replication.zip” contains the systems fr
 - Executing
   - Run python FPH.py
   
-  ### Output
+### Output
   For each system [s]:
   * "interactions_[s].txt" contains the information of the non-commutative pairs and the reason.
   * "summaryPerPair_[s].txt" contains for each pair of features whether an interaction was found and the time to reach the conclusion.
